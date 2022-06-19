@@ -10,4 +10,5 @@ In this repository, you can find some of Salesforce Apex’s coding conventions 
 ![](https://github.com/arun12209/Apex-Code-Quality-Rules/blob/master/images/qr-post-10-best-practices-for-apex-code.png)
 
 :link: https://sfdclesson.com/salesforce-apex-code-quality-rules/
+### 10 Best Practices for Apex Code
 :link: https://sfdclesson.com/2022/06/18/10-best-practices-for-apex-code/
